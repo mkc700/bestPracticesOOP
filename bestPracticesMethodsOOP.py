@@ -28,7 +28,7 @@ class Alumno:
     # Métodos para obtener los valores (getters)
     def get_nombre(self):
         return self.__nombre
-
+#..
     def get_apellido_paterno(self):
         return self.__apellido_paterno
 
